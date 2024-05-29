@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background: linear-gradient(80deg, rgba(255, 0, 0, 0.301),white,rgba(0, 0, 255, 0.416));
+    min-height: 1300px;
+}
+
+h1{
+    position: absolute;
+    left: 15rem;
+    top: 20px;
+}
+.text1{
+    position: absolute;
+    right: 15rem;
+    top: 16px;
+}
+
+.pic1{
+    border-radius: 10px;
+    position: absolute;
+    left: 14.5rem;
+    top: 5rem;
+   /* filter: blur(2px); */
+   filter: brightness(40%);
+   
+ 
+}
+div>h3{
+    color: white;
+    position: absolute;
+    top: 15rem;
+    left: 15rem;
+}
+
+.pic2{
+
+    border-radius: 10px;
+    position: absolute;
+    left: 50rem;
+    top: 5rem;
+    /* filter: blur(2px); */
+    filter: brightness(40%);
+}
+.text2{
+    color: white;
+    position: absolute;
+    top: 16rem;
+    left: 51rem;
+}
+
+.pic3{
+     
+    position: absolute;
+    top: 25rem;
+    left: 14.5rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+
+.box1{
+    width: 305px;
+    height: 250px;
+    background-color: rgb(197, 195, 195);
+    position: absolute;
+    left: 14.5rem;
+    top: 35.77rem;
+    border: 1px solid black;
+}
+.text3{
+    position: absolute;
+    left: 10px;
+    top: 1rem;
+    color: black;
+}
+ 
+.button1{
+    background-color: yellow;
+    border: none;
+    padding: 10px;
+    width: 40%;
+    position: absolute;
+    border-radius: 10px;
+    color: black;
+    left: 1rem;
+    top: 11rem;
+}
+
+.pic4{
+     
+     position: absolute;
+     top: 25rem;
+     left: 38rem;
+     border: 1px solid black;
+     border-radius: 10px;
+ }
+
+ 
+.box2{
+    width: 305px;
+    height: 250px;
+    background-color: rgb(197, 195, 195);
+    position: absolute;
+    left: 38rem;
+    top: 35.77rem;
+    border: 1px solid black;
+}
+.text3{
+    position: absolute;
+    left: 10px;
+    top: 1rem;
+    color: black;
+
+ }
+ .button2{
+    background-color: yellow;
+    border: none;
+    padding: 10px;
+    width: 40%;
+    position: absolute;
+    border-radius: 10px;
+    color: black;
+    left: 1rem;
+    top: 11rem;
+}
+
+.pic5{
+     
+     position: absolute;
+     top: 25rem;
+     left: 59rem;
+     border: 1px solid black;
+     border-radius: 10px;
+ }
+
+ .box3{
+    width: 305px;
+    height: 250px;
+    background-color: rgb(197, 195, 195);
+    position: absolute;
+    left: 59rem;
+    top: 35.77rem;
+    border: 1px solid black;
+}
+
+.text4{
+    position: absolute;
+    left: 10px;
+    top: 1rem;
+    color: black;
+
+ }
+ .button3{
+    background-color: yellow;
+    border: none;
+    padding: 10px;
+    width: 40%;
+    position: absolute;
+    border-radius: 10px;
+    color: black;
+    left: 1rem;
+    top: 11rem;
+}
+
+.pic6{
+
+    position: absolute;
+     top: 54rem;
+     left:14rem;
+     border: 1px solid black;
+     border-radius: 10px;
+}
+
+.text5{
+
+    position: absolute;
+    left: 33rem;
+    top: 60rem;
+    color: black;
+    font-size: 40px;
+}
+
+ .text5{
+
+    position: absolute;
+    left: 33rem;
+    top: 60rem;
+    color: black;
+    font-size: 40px;
+}
+
+.text6{
+
+    position: absolute;
+    left: 33rem;
+    top: 64rem;
+    color: black;
+    /* font-size: 40px; */
+}
+
+.button4{
+    background-color: yellow;
+    border: none;
+    padding: 10px;
+    width: 10%;
+    position: absolute;
+    border-radius: 10px;
+    color: black;
+    left: 37rem;
+    top: 68rem;
+ } 
+
+
+.button5{
+    background-color: black;
+    border: none;
+    padding: 10px;
+    width: 10%;
+    position: absolute;
+    border-radius: 10px;
+    color: white;
+    left: 50rem;
+    top: 68rem;
+}
+
+
+
